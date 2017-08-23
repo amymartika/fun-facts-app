@@ -46,7 +46,7 @@ struct FactProvider {
             "Strawberries can be red, yellow, green, or white.",
             "Every year, more than 2,500 left-handed people are killed from using right-handed products.",
             "Madonna has a phobia of thunder.",
-            "China has more English speakers then the United States does",
+            "China has more English speakers then the United States does.",
             "Samuel L. Jackson specifically requested a purple light saber in Star Wars."
     ]
     
